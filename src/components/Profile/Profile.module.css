@@ -6,3 +6,7 @@
     .item {
         color: yellowgreen;
     }
+
+    .content img {
+ width: 100px;
+    }
