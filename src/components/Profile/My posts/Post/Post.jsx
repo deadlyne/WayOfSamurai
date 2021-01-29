@@ -8,7 +8,8 @@ const Post = (props) => {
             <img src='https://a.ltrbxd.com/resized/sm/upload/zy/3i/3o/om/ava-2020-1200-1200-675-675-crop-000000.jpg?k=a2f346d633' />
                 { props.message }
             <div>
-                <span>like</span>
+                <span>like {(Math.floor (Math.random ()*100))}
+                </span>
             </div>
         </div>
     )
