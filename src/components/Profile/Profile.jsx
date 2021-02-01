@@ -4,7 +4,7 @@ import MyPosts from './My posts/MyPosts';
 
 
 const Profile = () => {
-    return <div className={s.content}>
+    return <div>
         <div>
             <img src='https://pixnio.com/free-images/2018/12/08/2018-12-08-16-25-38.jpg' />
         </div>
